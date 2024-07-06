@@ -9,4 +9,4 @@ This is my first portfolio website project! It's a showcase of the renowned desi
 - **Bootstrap:** For responsive design and pre-styled components.
   
 ### Hosted Link
-- You can view the live website here: Manish Malhotra Portfolio
+- You can view the live website here: (https://manishmalhotraportfolio.netlify.app/)
