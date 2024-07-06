@@ -1,6 +1,6 @@
 # Manish Malhotra Portfolio Website
 
-This is my first portfolio website project! It's a showcase of the renowned designer Manish Malhotra, created to help me learn and practice basic HTML, CSS, and Bootstrap.
+This is my first portfolio website project! It's a showcase of the renowned designer Manish Malhotra, created to help me learn and practice basic HTML and CSS.
 
 ## Technologies Used
 
