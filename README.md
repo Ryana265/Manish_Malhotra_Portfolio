@@ -6,7 +6,6 @@ This is my first portfolio website project! It's a showcase of the renowned desi
 
 - **HTML:** For the structure of the website.
 - **CSS:** For styling the website.
-- **Bootstrap:** For responsive design and pre-styled components.
   
 ### Hosted Link
-- You can view the live website here: (https://manishmalhotraportfolio.netlify.app/)
+- You can view the live website here: https://manishmalhotraportfolio.netlify.app/
